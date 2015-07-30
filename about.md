@@ -17,7 +17,7 @@ Packing up in December 2013, I travelled through Australia visiting friends and 
 
 I am now back in Adelaide looking to pursue a career as a data scientist. On the side, I am working on building an escape room and puzzle design business. 
 
-For me, my passion is understanding the complex issues facing our society. I am currently building my skills in working with large data sets and using them to develop a deeper understanding of these issues. This blog is focused sharing my interests in this area.
+For me, my passion is understanding the complex issues facing our society. Why are the rich getting richer and the poor getting poorer? How can we make our transport system more efficient? How does information spread through a network and why do some persist and others fade? I am currently building my skills in working with large data sets and using them to develop a deeper understanding of these questions. This blog is focused on sharing my interests in this area.
 
 You can follow me on twitter [@antonbubnalitic](https://twitter.com/antonbubnalitic).
 

@@ -15,7 +15,7 @@ As a result, I jumped into the business world securing a job with [Nous Group](h
 
 Packing up in December 2013, I travelled through Australia visiting friends and family for 4 months and then finally setting off to South East Asia. I travelled for about 6 months through Singapore, Malaysia, Vietnam and Laos. I subsequently rented a place in Hanoi and lived there for about 9 months working online, studying Vietnamese and picking other skills such as motorcycle repairs and R programming.
 
-I returned to Australia with the hope of starting a new business in Adelaide. After working on it for 2 months, my business partner and I decided that it would be better to turn this into a hobby rather than a full time venture so that we can pursue our respective passions. 
+I am now back in Adelaide looking to pursue a career as a data scientist. On the side, I am working on building an escape room and puzzle design business. 
 
 For me, that passion is understanding the complex issues facing our society. I am currently building my skills in working with the huge data sets that are being produced on a daily basis. This blog is focused sharing my interests in this area.
 

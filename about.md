@@ -13,7 +13,7 @@ I got an Honours degree in Mathematics from the ANU. I went there to study the B
 
 As a result, I jumped into the business world securing a job with [Nous Group](http://www.nousgroup.com/au/), a leading Australian management consulting firm. Whilst I enjoyed my time there and worked with some incredible people, I found that the focus on public policy was not for me and I decided to take a well deserved break.
 
-Packing up in December 2013, I travelled through Australia visiting friends and family for 4 months and then finally setting off to South East Asia. I travelled for about 6 months through Singapore, Malaysia, Vietnam and Laos. I subsequently rented a place in Hanoi and lived there for about 9 months working online, studying Vietnamese and picking other skills such as motorcycle repairs and R programming.
+Packing up in December 2013, I travelled through Australia visiting friends and family for 4 months and then finally setting off to South East Asia. I travelled for about 6 months through Singapore, Malaysia, Vietnam, Laos and Thailand. I subsequently rented a place in Hanoi and lived there for about 9 months working online, studying Vietnamese and picking other skills such as motorcycle repairs and R programming.
 
 I am now back in Adelaide looking to pursue a career as a data scientist. On the side, I am working on building an escape room and puzzle design business. 
 

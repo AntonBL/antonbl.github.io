@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Antonbl
 tagline:             'A data scientist'
 description:         'A blog to discuss my ideas'
-url:                 http://antonbl.github.io
+url:                 http://antonbl.github.io/
 baseurl:             ''
 paginate:            5
 

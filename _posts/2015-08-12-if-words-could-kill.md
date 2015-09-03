@@ -28,6 +28,8 @@ Given that the 3 word addresses are likely constructed after the accidents and a
 
 If you enjoyed this but would like to spend some time working with me on some more serious work. Feel free to get in touch and send me an email. I will be posting my code on GitHub shortly.
 
+*Edit: The winners have been announced and posted on [Spatial Source](http://www.spatialsource.com.au/2015/09/01/geonext-hackfest-2015-winners-announced/). You should definitely check them out. I was a finalist but unfortunately did not secure a prize.*
+
 ---
 
 I highly recommend checking out [what3words](http://what3words.com/). Not only is it a fun way to locate your business but also incredibly useful, particularly if the 3 word location is hidden or hard to find using your usual street address.
